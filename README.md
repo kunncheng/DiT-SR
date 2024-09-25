@@ -1,5 +1,5 @@
 <div align="center">
-<h2>DiT-SR: Effective Diffusion Transformer Architecture for Image Super-Resolution</h2>
+<h2>Effective Diffusion Transformer Architecture for Image Super-Resolution</h2>
 
 <div>
     <a href='https://github.com/kunncheng'>Kun Cheng* <sup>1</sup></a>&emsp;
