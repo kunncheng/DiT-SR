@@ -9,7 +9,7 @@
     <a href='https://github.com/kunncheng'>Liyu Chen <sup>2</sup></a>&emsp;<br/>
     <a href='https://github.com/kunncheng'>Yong Guo <sup>3</sup></a>&emsp;
     <a href='https://web.xidian.edu.cn/mrzhu/en/index.html'>Mingrui Zhu <sup>1</sup></a>&emsp;
-    <a href='https://web.xidian.edu.cn/nnwang/en/index.html'>Nannan Wang <sup>1</sup></a>&emsp;
+    <a href='https://web.xidian.edu.cn/nnwang/'>Nannan Wang <sup>1</sup></a>&emsp;
     <a href='https://see.xidian.edu.cn/faculty/xbgao/'>Xinbo Gao <sup>4</sup></a>&emsp;
     <a href='https://scholar.google.com/citations?user=o-3D3K4AAAAJ&hl=zh-CN'>Jie Hu <sup>2</sup></a>&emsp;
 </div>
