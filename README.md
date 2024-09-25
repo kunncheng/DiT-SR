@@ -15,7 +15,7 @@
 </div>
 <br>
 <div>
-    <sup>1</sup> Xidian University &emsp; <sup>2</sup> Huawei Noah's Ark Lab &emsp; <sup>3</sup> CBG, Huawei &emsp; <sup>4</sup> Chongqing University of Posts and
+    <sup>1</sup> Xidian University &emsp; <sup>2</sup> Huawei Noah's Ark Lab &emsp; <br/><sup>3</sup> CBG, Huawei &emsp; <sup>4</sup> Chongqing University of Posts and
 Telecommunications
 </div>
 <div align="justify">
