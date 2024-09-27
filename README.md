@@ -21,3 +21,9 @@ Telecommunications
 <div align="justify">
 
 ## Introduction
+
+We design an effective diffusion transformer for image super resolution (DiT-SR) that achieves the visual quality of prior-based methods, but through a training-from-scratch manner. 
+
+ - Efficient yet effective architecture design;
+ - Adaptive Frequence Modulation (AdaFM) for time step.
+
